@@ -18,6 +18,7 @@ I have already configured the **iOS source code** in this project with:
     cd ios
     pod install
     ```
+    
 3.  **Open in Xcode**:
     *   Open `StockLaabh/ios/StockLaabh.xcworkspace` in Xcode.
 4.  **Set App Icon**:
